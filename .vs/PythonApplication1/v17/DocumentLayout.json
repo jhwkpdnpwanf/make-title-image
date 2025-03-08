@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex0\\OneDrive\\Escritorio\\all_file\\\uD0C0\uC774\uD2C0\uC0AC\uC9C4\uC81C\uC791\\PythonApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5853A7AF-D333-4F88-9C29-34DD70B95119}|PythonApplication1\\PythonApplication1.pyproj|C:\\Users\\alex0\\OneDrive\\Escritorio\\all_file\\\uD0C0\uC774\uD2C0\uC0AC\uC9C4\uC81C\uC791\\PythonApplication1\\PythonApplication1\\PythonApplication1.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5853A7AF-D333-4F88-9C29-34DD70B95119}|PythonApplication1\\PythonApplication1.pyproj|solutionrelative:PythonApplication1\\PythonApplication1.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonApplication1.py",
+              "DocumentMoniker": "C:\\Users\\alex0\\OneDrive\\Escritorio\\all_file\\\uD0C0\uC774\uD2C0\uC0AC\uC9C4\uC81C\uC791\\PythonApplication1\\PythonApplication1\\PythonApplication1.py",
+              "RelativeDocumentMoniker": "PythonApplication1\\PythonApplication1.py",
+              "ToolTip": "C:\\Users\\alex0\\OneDrive\\Escritorio\\all_file\\\uD0C0\uC774\uD2C0\uC0AC\uC9C4\uC81C\uC791\\PythonApplication1\\PythonApplication1\\PythonApplication1.py",
+              "RelativeToolTip": "PythonApplication1\\PythonApplication1.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-26T04:13:45.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
